@@ -1,0 +1,53 @@
+footer{
+    width: 100%;
+    min-height: 5%;
+    /*background: linear-gradient(violet, red);*/
+}
+
+#texteLivré{
+    text-align: left;
+}
+
+.carousel{
+    margin-top: 5px;
+    min-height: 300px;
+    margin-bottom: 5px;
+}
+
+.carousel .carousel-item {
+    min-height: 300px;
+}
+
+#body{
+    max-height: 38rem;
+}
+
+.dropdown-menu{
+    width: 20%;
+}
+
+#navbarNavDropdown{
+    margin-left: 10vw;
+}
+
+.carousel-item img {
+    position: absolute;
+    object-fit: cover;
+    top: 0;
+    left: 0;
+    min-height: 300px;
+}
+
+#tete{
+    min-width: 80px;
+    max-width: 100px;
+}
+
+body {
+    /*animation: wheelHueColor 25s infinite;*/
+    background: linear-gradient(blue, violet);
+    margin-bottom: 3em;
+    /*#79a7d3    #6883bc  bleu clair/
+    /#ff9a8d #4a536b  orange/
+    /vERT BEAU rgba(181, 255, 217, 1)*/
+}
